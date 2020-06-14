@@ -1,0 +1,63 @@
+.container-fluid {
+    background-image: linear-gradient(rgb(236, 89, 236),#febd59);
+}
+
+.navartop {
+    background-image: linear-gradient(black, rgb(236, 89, 236));
+
+}
+
+
+.card-title  {
+    color:#febd59;
+    background-color: coral;
+}
+
+.card {
+    background-color: coral;
+}
+
+.error {
+    background-image: linear-gradient(black, rgb(236, 89, 236), #febd59 );
+}
+
+
+.error1 {
+    background-image: linear-gradient(   rgb(236, 89, 236), #febd59 );
+}
+
+
+.dialog-inner {
+
+    background-image: linear-gradient(rgb(236, 89, 236),#febd59);
+}
+
+.img_carrusel {
+    max-width: 100%;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+.tyc {
+    font-size: 7px;
+}
+
+.mail {
+    font-size: 10px;
+}
+
+a:link {
+text-decoration:none;
+}
+
+
+    /* .imgflot {   
+        position: fixed;
+        width: 17%;
+        margin-left: 50%;
+        
+    }
+ */
